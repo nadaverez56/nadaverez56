@@ -58,4 +58,4 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-nadaverez56@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:nadaverez56@gmail.com)](mailto:nadaverez56@gmail.com)
 
-Feel free to poke around! 😄 👀
+Feel free to poke around! 😄 👀 🏄
