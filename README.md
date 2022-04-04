@@ -8,13 +8,14 @@
     height="40"
     width="40"
     src="https://cdn.icon-icons.com/icons2/2667/PNG/512/jupyter_app_icon_161280.png" />
-</a>
-
+ </a>
+<a href="https://www.spyder-ide.org/">
   <img 
     alt="Spyder"
     height="40"
     width="40"
     src="https://www.iconninja.com/files/387/241/224/spyder-icon.png" />
+  </a>
   <img 
     alt="MySQL"
     height="38"
