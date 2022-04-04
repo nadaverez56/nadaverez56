@@ -2,6 +2,7 @@
 
 <h4> Tools / Software: </h4>
 
+<a href="https://jupyter.org/">
   <img 
     alt="Jupyter Notebook"
     height="40"
