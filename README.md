@@ -8,6 +8,7 @@
     height="40"
     width="40"
     src="https://cdn.icon-icons.com/icons2/2667/PNG/512/jupyter_app_icon_161280.png" />
+</a>
   <img 
     alt="Spyder"
     height="40"
