@@ -3,12 +3,6 @@
 <h4> Tools / Software: </h4>
 
 <a href="https://jupyter.org/">
-  body>
-    <div>Blah blah I have a tooltip</div>
-    <x-tooltip orientation="above" trigger-style="hover" target-selector="_previousSibling">
-        Hello, I am the tooltip. <img src="http://placekitten.com/50"/>
-    </x-tooltip>
-</body>
   <img 
     alt="Jupyter Notebook"
     height="40"
