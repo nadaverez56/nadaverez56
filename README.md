@@ -1,5 +1,7 @@
 <h2> Nadav Erez 👋 </h2>
 
+Welcome to my Github and feel free to poke around! 😄 👀 🏄
+
 <h4> Tools / Software: </h4>
 
 <a href="https://jupyter.org/">
@@ -57,5 +59,3 @@
 
 
 [![Gmail Badge](https://img.shields.io/badge/-nadaverez56@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:nadaverez56@gmail.com)](mailto:nadaverez56@gmail.com)
-
-Feel free to poke around! 😄 👀 🏄
