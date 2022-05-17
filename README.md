@@ -1,6 +1,6 @@
 <h2> Nadav Erez 👋 </h2>
 
-Welcome to my Github and feel free to poke around! 😄 👀 🏄
+Welcome to my Github, feel free to poke around! 😄 👀 🏄
 
 <h4> Tools / Software: </h4>
 
